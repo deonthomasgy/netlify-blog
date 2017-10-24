@@ -1,0 +1,15 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "https://underwriter-dimensions-11775.netlify.com"
+canonifyURLs = true
+title = "My Hugo Site"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  subtitle = "Hugo is Absurdly Fast!"
+  author = "John Doe"
